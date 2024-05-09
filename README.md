@@ -1,4 +1,4 @@
-# Resume-Builder
+## Resume-Builder
 
 # Introduction
 This is a simple resume builder web application built using HTML, CSS, and JavaScript. 
